@@ -15,14 +15,20 @@ module.exports = [
     ],
     [
         {
-            text: 'Fallout boy', // текст на кнопке
-            callback_data: 'fallOutBoy' // данные для обработчика событий
+            text: 'Картинка', // текст на кнопке
+            callback_data: 'img' // данные для обработчика событий
         }
     ],
     [
         {
             text: 'Музыка',
             callback_data: 'music'
+        }
+    ],
+    [
+        {
+            text: 'Анекдот "dad joke"',
+            callback_data: 'joke'
         }
     ],
     [
