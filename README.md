@@ -1,6 +1,6 @@
 # TelegramBot
 ### my test telegram bot
-js, Javascript,  Fetch , API , UNSPLAH , NODE.JS , openweathermap.org , telegram , icanhazdadjoke, 
+js, Javascript,  Fetch , API , UNSPLAH , NODE.JS , openweathermap.org , telegram , icanhazdadjoke, currency exchange ,exchangeratesapi
 
  #### UNSPLAH api.unsplash.com
  #### OPENWEATHERMAP [openweathermap.org/api](https://openweathermap.org/api)
